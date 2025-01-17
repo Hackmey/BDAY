@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/BDAY/static/css/main.1c872468.css",
+    "main.js": "/BDAY/static/js/main.0ac1b3d4.js",
+    "static/js/488.ecba0b30.chunk.js": "/BDAY/static/js/488.ecba0b30.chunk.js",
+    "static/media/baddass.jpg": "/BDAY/static/media/baddass.91e5513cadbb8dcadffb.jpg",
+    "static/media/awkward.jpg": "/BDAY/static/media/awkward.4cc9e0e6cc952d156717.jpg",
+    "static/media/firstdate.jpg": "/BDAY/static/media/firstdate.4ee5f8032d5dbf7cbd80.jpg",
+    "static/media/untie.jpg": "/BDAY/static/media/untie.22ecccade240f25bfed2.jpg",
+    "static/media/usbest.jpg": "/BDAY/static/media/usbest.416df2de6823e1aee4cf.jpg",
+    "static/media/hottest.jpg": "/BDAY/static/media/hottest.33cd059857cf7fce7cf1.jpg",
+    "static/media/posing.jpg": "/BDAY/static/media/posing.ffec79ebd9062c335cb0.jpg",
+    "static/media/nakhraas.jpg": "/BDAY/static/media/nakhraas.908b1b25964836f86b59.jpg",
+    "static/media/eyes.jpg": "/BDAY/static/media/eyes.1843c1b0435f9df8953e.jpg",
+    "static/media/pari.jpg": "/BDAY/static/media/pari.9e4643f5c1d19315d028.jpg",
+    "static/media/dramaqueen.jpg": "/BDAY/static/media/dramaqueen.121c110778d497cacfa8.jpg",
+    "static/media/ears.jpg": "/BDAY/static/media/ears.e576ce25d2cbed2b1bf3.jpg",
+    "static/media/backside.jpg": "/BDAY/static/media/backside.1f090113d3bc12b8da92.jpg",
+    "static/media/juice.jpg": "/BDAY/static/media/juice.84483b88b8d8e310d99d.jpg",
+    "static/media/dn.jpg": "/BDAY/static/media/dn.c3c0fa3c16d4d310f0ea.jpg",
+    "static/media/pose.jpg": "/BDAY/static/media/pose.4f65ba2169974fb37019.jpg",
+    "static/media/chasmis.jpg": "/BDAY/static/media/chasmis.b01b2be1c2029d1ed1bd.jpg",
+    "static/media/chin.jpg": "/BDAY/static/media/chin.a59f34d60a5b17162a87.jpg",
+    "static/media/interview.jpg": "/BDAY/static/media/interview.4aa5dd5e96ea55b3a87f.jpg",
+    "static/media/logo.svg": "/BDAY/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BDAY/index.html",
+    "main.1c872468.css.map": "/BDAY/static/css/main.1c872468.css.map",
+    "main.0ac1b3d4.js.map": "/BDAY/static/js/main.0ac1b3d4.js.map",
+    "488.ecba0b30.chunk.js.map": "/BDAY/static/js/488.ecba0b30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c872468.css",
+    "static/js/main.0ac1b3d4.js"
+  ]
+}

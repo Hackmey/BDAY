@@ -1,10 +1,11 @@
 {
-  "homepage" : "http://hackmey.github.io/BDAY/",
+  "homepage": "http://hackmey.github.io/BDAY/",
   "name": "catwoman-birthday",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",

@@ -304,7 +304,7 @@ You're my forever, my best friend.`,
 
       {/* Surprise Section */}
       <section className="py-20 px-4">
-        <h2 className="text-4xl text-center mb-12 text-purple-300">✨ The Catwalk of Surprise Awaits ✨</h2>
+        <h2 className="text-4xl text-center mb-12 text-purple-300">✨ Happy birthday Love💖  ✨</h2>
         <div className="text-center">
           <button
             onClick={() => {
@@ -319,15 +319,8 @@ You're my forever, my best friend.`,
             className="group relative inline-flex items-center px-8 py-4 bg-purple-600 hover:bg-purple-700 rounded-full transition-all duration-300 hover:transform hover:scale-105"
           >
             <span className="mr-2">✨</span>
-            <span>Tap the Cat-Eye Gem to unveil your surprise!</span>
+            <span>Click Here</span>
           </button>
-          {showSurprise && (
-            <div className="mt-8">
-              <p className="text-xl animate-[fadeIn_1s_ease-in]">
-                🎉 Surprise content here! 🎉
-              </p>
-            </div>
-          )}
         </div>
       </section>
 

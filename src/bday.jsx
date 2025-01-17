@@ -24,8 +24,6 @@ import baddass from "./images/baddass.jpg";
 
 const CatwomanBirthday = () => {
   const [showSurprise, setShowSurprise] = React.useState(false);
-  const [activeMemory, setActiveMemory] = React.useState(null);
-  const [showGift, setShowGift] = React.useState(false);
   const [mousePos, setMousePos] = React.useState({ x: 0, y: 0 });
   const [sparkles, setSparkles] = React.useState([]);
   const name = "Jasmin";
@@ -116,24 +114,6 @@ You're my forever, my best friend.`,
     { icon: "💜", text: "Your love: It's the most precious jewel of all." },
   ];
 
-  const heroQualities = [
-    { 
-      title: "Kindness", 
-      description: "Your heart, the compass that guides with love.",
-      image: "/images/kindness.jpg" 
-    },
-    { 
-      title: "Bravery", 
-      description: "Facing challenges with grace and courage.",
-      image: "/images/bravery.jpg" 
-    },
-    { 
-      title: "Resilience", 
-      description: "Rising stronger after every fall.",
-      image: "/images/resilience.jpg" 
-    },
-
-  ];
   
 
   const likesInYou = [
